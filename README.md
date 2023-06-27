@@ -1,10 +1,10 @@
-![Uploading Screenshot (131).png…]()
+
 # Shopping Cart Built in React JS with Context API and useReducer
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://t4.ftcdn.net/jpg/03/08/14/43/360_F_308144353_K2wpmwBtCpvAowfdrlcb3c7d91DHooWz.jpg" alt="Project logo"></a>
 </p>
-<h3 align="center">Project Title</h3>
+<h3 align="center">Shopping Cart Application</h3>
 <div align="center">
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
@@ -53,11 +53,9 @@ The continual development and improvement of shopping cart applications have mad
 ## Screenshots:
 
 ![Uploading Screenshot (131).png…]()
-
 ![Uploading Screenshot (132).png…]()
 ![Uploading Screenshot (133).png…]()
 
-![Uploading Screenshot (133).png…]()
 
 
 
